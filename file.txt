@@ -1,6 +1,8 @@
 helloooooooo
+adding a line here from branch test-merge
 I want to test out merge conflicts or something similar. For now this
-is just a random text file to write things out.
+is just a random text file to write things out. modifying this line too.
 I need to test stuff.
+also adding a line here from test-merge
 I want to learn github in this private repo. I will create a branch soon and make changes then merge from
 a pull request.
