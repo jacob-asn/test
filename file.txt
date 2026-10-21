@@ -1,0 +1,6 @@
+helloooooooo
+I want to test out merge conflicts or something similar. For now this
+is just a random text file to write things out.
+I need to test stuff.
+I want to learn github in this private repo. I will create a branch soon and make changes then merge from
+a pull request.
